@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/okiyamafoodservice/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okiyamafoodservice&layout⭐%EF%B8%8F=compact&theme=omni" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okiyamafoodservice&layout⭐%EF%B8%8F=compact&theme=shadow_blue" />
 </a>
