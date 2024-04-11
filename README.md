@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h1>Hi!</h1>
+
+<a href="https://github.com/okiyamafoodservice/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=名前&count_private=true&theme=omni" />
+</a>
+<a href="https://github.com/名前/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=名前&layout⭐%EF%B8%8F=compact&theme=omni" />
+</a>
