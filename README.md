@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=html,css,js" /> <br /><br />
 
 <a href="https://github.com/okiyamafoodservice/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=okiyamafoodservice&count_private=true&theme=omni" />
+  <img src="https://github-readme-stats.vercel.app/api?username=okiyamafoodservice&count_private=true&theme=shadow_blue" />
 </a>
 
 <a href="https://github.com/okiyamafoodservice/github-readme-stats">
