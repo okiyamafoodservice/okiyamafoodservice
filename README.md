@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1>Hi!</h1>
 
-<img src="https://skillicons.dev/icons?i=html,css," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js" /> <br /><br />
 
 <a href="https://github.com/okiyamafoodservice/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=okiyamafoodservice&count_private=true&theme=omni" />
