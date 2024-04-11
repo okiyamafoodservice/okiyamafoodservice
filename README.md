@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/okiyamafoodservice/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=okiyamafoodservic&count_private=true&theme=omni" />
 </a>
+
 <a href="https://github.com/okiyamafoodservice/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okiyamafoodservice&layout⭐%EF%B8%8F=compact&theme=omni" />
 </a>
